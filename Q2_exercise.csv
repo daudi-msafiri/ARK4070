@@ -1,5 +1,7 @@
 ﻿Feature;d13C;d15N;group;community
 1;-9.3;7.1;agriculturalist;criss-cross
+3;-27.8;7.6;horticulturalist;triple-bar
+5;-29.5;1;hunter-gatherer;punctate
 8;-11.8;6.8;agriculturalist;criss-cross
 10;-14.8;8.7;agriculturalist;double-bar
 11;-10.7;6.1;agriculturalist;criss-cross
@@ -8,36 +10,34 @@
 19;-13.8;6.5;agriculturalist;criss-cross
 21;-11.5;6;agriculturalist;criss-cross
 22;-13.8;6.7;agriculturalist;double-bar
+27;-32.3;0.9;hunter-gatherer;undecorated
+28;-29.4;4;hunter-gatherer;perpendicular bars
 29;-11.4;7;agriculturalist;criss-cross
+30;-26.2;5.9;horticulturalist;triple-bar
 33;-9.1;8.2;agriculturalist;criss-cross
 34;-13.2;8;agriculturalist;criss-cross
 35;-14.7;7.6;agriculturalist;criss-cross
 37;-13.4;6.9;agriculturalist;criss-cross
+39;-32.5;2.4;hunter-gatherer;undecorated
+41;-28.1;4.9;hunter-gatherer;perpendicular bars
+45;-29.4;5.9;hunter-gatherer;perpendicular bars
+47;-35;3;hunter-gatherer;undecorated
+50;-30.1;2.7;hunter-gatherer;punctate
 53;-13.6;7.4;agriculturalist;double-bar
+54;-33.3;1.5;hunter-gatherer;undecorated
 55;-16;6.2;agriculturalist;double-bar
 56;-11.9;7.5;agriculturalist;double-bar
 57;-14.2;9.6;agriculturalist;criss-cross
+60;-29;3.8;hunter-gatherer;punctate
+64;-27.6;3.8;hunter-gatherer;perpendicular bars
 65;-10;7.5;agriculturalist;criss-cross
 67;-13.4;7.9;agriculturalist;double-bar
+73;-29.7;1.3;hunter-gatherer;punctate
 75;-14.2;9.3;agriculturalist;criss-cross
-98;-10.5;7.7;agriculturalist;double-bar
-3;-27.8;7.6;horticulturalist;triple-bar
-30;-26.2;5.9;horticulturalist;triple-bar
+79;-26;5.7;hunter-gatherer;perpendicular bars
 83;-25.7;7.6;horticulturalist;triple-bar
+84;-29.8;4;hunter-gatherer;punctate
 85;-27.9;4.2;horticulturalist;triple-bar
+89;-32.4;0.7;hunter-gatherer;undecorated
 96;-24.5;4.6;horticulturalist;triple-bar
-5;-29.5;1;huntergatherer;punctate
-27;-32.3;0.9;huntergatherer;undecorated
-28;-29.4;4;huntergatherer;perpendicular bars
-39;-32.5;2.4;huntergatherer;undecorated
-41;-28.1;4.9;huntergatherer;perpendicular bars
-45;-29.4;5.9;huntergatherer;perpendicular bars
-47;-35;3;huntergatherer;undecorated
-50;-30.1;2.7;huntergatherer;punctate
-54;-33.3;1.5;huntergatherer;undecorated
-60;-29;3.8;huntergatherer;punctate
-64;-27.6;3.8;huntergatherer;perpendicular bars
-73;-29.7;1.3;huntergatherer;punctate
-79;-26;5.7;huntergatherer;perpendicular bars
-84;-29.8;4;huntergatherer;punctate
-89;-32.4;0.7;huntergatherer;undecorated
+98;-10.5;7.7;agriculturalist;double-bar
